@@ -1,4 +1,5 @@
 pandas
+openpyxl
 numpy==1.21.4
 matplotlib
 seaborn
