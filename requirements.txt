@@ -1,0 +1,11 @@
+pandas
+numpy==1.21.4
+matplotlib
+seaborn
+requests
+re
+scipy
+sklearn
+urllib3
+io
+pdfplumber
