@@ -19,7 +19,7 @@ visualisations.
 
 
 ### Contents of repository:<br />
-1. **matplotlib.pyplot.ipynb**: <br />  
+1. **pyplot.ipynb**: <br />  
     - This Jupyter notebook contains an overview of the matplotlib.pyplot Python package with <br>
     in-depth explanation of three plots from the package. <br />
     - Quicklinks below: *nbviewer* for static, *binder* for dymanic:<br />
@@ -87,6 +87,6 @@ utilise the histogram, violin plot and scatter plot on real world data.
 #### CAO Points:
 Exploring the web scraping capability of python showed how dynamic it is at scraping html, excel files<br>
 and pdf files when leveraging regular expressions. This project successfully joined and cleansed the CAO<br>
-data from 2018 to 2019 and compared counts via using barcharts, spread via boxplots and distributions<br>
+data from 2019 to 2021 and compared counts via using barcharts, spread via boxplots and distributions<br>
 via histograms / KDE's. The overall findings showed an increase in the points of courses offered in 2021.
 
